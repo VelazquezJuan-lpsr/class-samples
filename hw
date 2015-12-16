@@ -1,0 +1,13 @@
+import turtle
+
+t = turtle.Turtle()
+
+for c in ['red']:
+    t.color(c)
+    t.forward(70)
+    t.backward(35)
+    t.left(90)
+    t.forward(35)
+    t.backward(70)
+
+

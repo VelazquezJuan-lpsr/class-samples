@@ -1,0 +1,2 @@
+dogs = raw_input()
+print("how many dogs?")
