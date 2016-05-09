@@ -1,0 +1,23 @@
+body{
+	background-color: #333;
+	font-family:Arial;
+	color: red;
+}
+p{
+	margin: 20px;
+}
+spam{
+	color: gold;
+	font-weight: bold;
+	font-size: 30px;
+}
+div{
+	margin-left: 200px;
+}
+h1{
+        background-color: Black;
+        color:white;
+        text-align:center;
+        padding: 10px;
+}
+
