@@ -1,5 +1,5 @@
 body{
-	background-color: #EEE;
+	background-color: grey;
 	font-family: Helvetica, Arial, sans-serif;
 }
 a{
@@ -18,7 +18,7 @@ h1, h2, h3{
 	margin-right:auto;
 }
 #header{
-    	background-color: #66CCFF;
+    	background-color: purple;
 	color:white;
 	text-align:center;
 	padding: 10px;
@@ -26,16 +26,16 @@ h1, h2, h3{
 
 
 #content{
-	padding: 10px;
+	padding: 20px;
 }
 
 #nav {
-	width: 180px;
-	float: left;
+	width: 20px;
+	float: top;
 }
 #nav ul{
-	list-style-type: none;
-	padding: 0;
+	list-style-type:none ;
+	padding: ;
 }
 
 #nav .selected{
@@ -50,8 +50,34 @@ h1, h2, h3{
 #footer{
 	clear: both;
 	padding: 10px;
-	background-color: #999;
+	background-color: black;
 	color: white;
 	text-align: right;
 
+}
+spam{
+	font-weight: Bold;
+}
+#list{
+	padding: 10px;
+	margin-right: 30px;
+	border-style: solid;
+	border-color: black;
+}
+#logo{
+	width: 435px;
+	margin-right: 30px;
+	border-style: solid;
+	border-color: black;
+}
+#display{
+	padding: 0px;
+	margin: 0px;
+	text-align:center;
+	border-style: solid;
+	border-color: black;
+}
+
+p{
+	text-style:time, arial;
 }
