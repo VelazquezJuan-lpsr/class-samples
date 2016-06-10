@@ -28,9 +28,9 @@ def loadfile(filename):
 	while myLine != "":
 		myWords = myLine.split()
 		print(myWords)
-		emptyList.append(Player(myWords[0]),myWords[1],myWords[2], myWords[3]),myWords[4]) + "\n"))
+		emptyList.append(Player(myWords[0], myWords[1], myWords[2], myWords[3], myWords[4]))
 		myLine = myFile.readline()
-	myFile.close()
+		myFile.close()
 	return emptyList
 
 
